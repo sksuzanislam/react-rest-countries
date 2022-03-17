@@ -1,0 +1,13 @@
+.country{
+    margin: 25px;
+    padding: 10px;
+    background-color: antiquewhite;
+    border-radius: 10px;
+    font-family: Arial;
+}
+.country img{
+    width: 150px;
+}
+.country:hover{
+    color:orange;
+}
